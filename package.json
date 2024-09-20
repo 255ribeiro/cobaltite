@@ -1,0 +1,21 @@
+{
+  "name": "cobaltite",
+  "displayName": "cobaltite",
+  "description": "A tweaked Cobalt2 theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cobalite Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cobalite Theme-color-theme.json"
+      }
+    ]
+  }
+}
