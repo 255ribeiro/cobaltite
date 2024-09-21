@@ -16,6 +16,13 @@
         "label": "Cobalite Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Cobalite Theme-color-theme.json"
+      },
+
+      {
+        "label": "Cobalite plus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/just-code-already-fork-color-theme.json"
+
       }
     ]
   }
